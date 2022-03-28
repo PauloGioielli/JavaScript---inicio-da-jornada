@@ -1,1 +1,2 @@
-# JavaScript---inicio-da-jornada
+# JavaScript-início-da-jornada
+
